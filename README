@@ -1,3 +1,16 @@
+
+This is a modified version of the original WAVPY v1 software by Fran Fabra.
+
+Modification is made by Dinan Bai dinanbai@umich.edu on 8/28/2025
+
+Reference: F. Fabra, E. Cardellach, W. Li and A. Rius, "WAVPY: A GNSS-R open source software library for data analysis and simulation," 
+2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Fort Worth, TX, USA, 2017, pp. 4125-4128, 
+doi: 10.1109/IGARSS.2017.8127908.
+
+### Summary of Modifications
+* updates compatability to python 3.9.
+
+Original Readme:
 ---------------------------------------------------------------------------
 -------------------------------| WAVPY v1 |--------------------------------
 ---------------------------------------------------------------------------
